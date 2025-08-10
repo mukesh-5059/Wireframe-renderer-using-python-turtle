@@ -3,9 +3,13 @@ Learning the basic concepts of 3d rendering using python and turtle.
 
 
 Instructions:
+
   -use wasdqe for movement
+  
   -mouse controls supported
+  
   -About the models:
+  
 	  -cube = very low detail
 	  -astronaut = low detail
 	  -mountains = medium detail
