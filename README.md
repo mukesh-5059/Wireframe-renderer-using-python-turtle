@@ -10,10 +10,10 @@ Instructions:
   
   -About the models:
   
-	  -cube = very low detail
-	  -astronaut = low detail
-	  -mountains = medium detail
-	  -teapot = high detail
-	  -cat = the final boss
+	  -cube = very low poly
+	  -astronaut = low poly
+	  -mountains = large model
+	  -teapot = hello world to graphics testing
+	  -cat = high poly
 
 NOTE: this is the code i submitted for my CBSE class 11 project
