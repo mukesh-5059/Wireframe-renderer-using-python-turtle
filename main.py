@@ -55,8 +55,8 @@ print('''
 SOME BASIC INFORMATION:
 1)This is a program to display the 3d models you have downloaded
 2)Points to remember when downloading a 3d model
-    i)choose a low poly(less polygons) model [since this project is not optimized and this will be taken care in a future update]
-    ii)choose a model made only of triangles[since triangulation is a complex process and will be added in the next update]
+    i)choose a low poly(less polygons) model [since this project is not optimized since this is made purely for educational purposes]
+    ii)choose a model made only of triangles[since triangulation is not implimented in this version]
     iii)place the downloaded 3d model in the same folder as this project code
 3)Movements
     i)use 'w,a,s,d' keys to move around the world
@@ -66,7 +66,7 @@ SOME BASIC INFORMATION:
 4)If you can't see the model, place the cursor at the center of the screen
 5)THIS IS NOT THE FINAL PROJECT AND YOU CAN EXPET ERRORS
 ''')
-bfc=input('Would you like to enable performance booster(EXPERIMENTAL)(1 for yes and 0 for no):')
+bfc=input('Would you like to enable backface cuilling to boost performance(EXPERIMENTAL)(1 for yes and 0 for no):')
 while not(bfc.isdigit()) or int(bfc) not in [0,1]:
     bfc=input("Please enter a valid option: ")
 file=open(file,'r')
@@ -333,3 +333,4 @@ else:
             turtle.clear()
             drawtriangles(triangle)
             win.update()
+
