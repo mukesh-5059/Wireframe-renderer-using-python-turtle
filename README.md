@@ -33,5 +33,14 @@ Instructions:
 	-run the program and select the model from the command line interface
 
 
+References:
 
+  https://youtu.be/ih20l3pJoeU?si=o02OevIxmKlqbKtd
+  
+  https://scratch.mit.edu/projects/737594825
+  
+  https://www.youtube.com/watch?v=XgMWc6LumG4
+
+
+    
 NOTE: this is the code i submitted for my CBSE class 11 project so dont expect much from this.
